@@ -5,7 +5,7 @@ görselleriyle oluşturulmuş efektif bir film sitesidir.
 
 <h2> Kullanılanlar </h2>
 
-Javasicript ile daha dinamik hale getirildi.
+Javascript ile daha dinamik hale getirildi.
 
 <h2> Ekran Görüntüsü </h2>
 
